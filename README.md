@@ -11,7 +11,7 @@ Polygon count: 6
 
 Documentation: Included
 
-[![YouTube Video](cover-img.jpg)](https://youtu.be/y6Flck_lbuU)
+![Cover Image](cover-img.jpg)
 
 # Screenshots
 ![Screenshot](screenshot-img.jpg)
